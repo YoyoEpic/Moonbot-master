@@ -2,9 +2,9 @@
   "name": "MoonBot",
   "description": "The most racist bot.",
   "version": "1.0.1",
-  "main": "bot.js",
+  "main": "bot.py",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node bot.py"
   },
   "dependencies": {
     "discord.js": "11.1.0",
