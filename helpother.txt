@@ -1,0 +1,23 @@
+Welcome to MoonBot's help guide.
+
+Bot was coded by Master with help from friends.
+
+WANRING: THIS BOT IS EXTREMELY RACIST. NOT FOR PG SERVERS OR THE EASILY OFFENDED!
+
+Bot Version: v2.8
+Codename: "Diss Track Coming Soon."
+
+These commands do not need any special roles to use.
+
+Here are other commands:
+
+Other:
+>id - Gives you your id
+>discrim - Gives your Discrim
+>invite -  Prints an invite link for you to use the bot on your server.
+>devserver - Gives an invite link to MoonBot's Dev Server
+>hello -  Makes bot say hello to you, use this as a testing command.
+>updates - gives the latest updates, check this if the bot restarts.
+>stats - Gives the bot stats
+>data @someone - Gives the User stats.
+>notifydev message - Gives a message to the dev. *Please use this for bug commands. I dont really care if you want to have a chat, but dont abuse pls*

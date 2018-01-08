@@ -1,0 +1,22 @@
+Welcome to MoonBot's help guide.
+
+Bot was coded by Master with help from friends.
+
+WANRING: THIS BOT IS EXTREMELY RACIST. NOT FOR PG SERVERS OR THE EASILY OFFENDED!
+
+Bot Version: v2.8
+Codename: "Diss Track Coming Soon."
+
+Admin commands do need the Administrator privilege to use. Alternatively, you can assign "Manage Server and Messages" perms, but this makes this *much* easier.
+
+Here are the administrative commands:
+
+Administrative:
+>prune number -  Deletes messages
+>addrole Role @someone -  Adds a role to a user
+>removerole Role @someone - Removes a role from a user
+>oppress @someone - Mutes a person, must mention
+>kick @someone - Kicks a member
+>makeinvite - Makes a server invite
+>getallbans - Gets all known bans on the server
+>changenickname "Nickname" @someone - Changes the nickname of an user.
